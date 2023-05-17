@@ -20,7 +20,7 @@ import static com.sherwin.ireredux.ImageRenderingConstants.*;
 @RestController
 @Slf4j
 public class ImageRenderingController {
-    @GetMapping(value = "/", produces = MediaType.IMAGE_JPEG_VALUE)
+    @GetMapping(value = "**", produces = MediaType.IMAGE_JPEG_VALUE)
     public @ResponseBody byte[] getImage(@RequestParam Map<String, String> params) throws IOException {
         byte[] payload = new byte[0];
 
