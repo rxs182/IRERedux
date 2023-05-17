@@ -1,0 +1,12 @@
+2023-05-16 20:02:55,562 INFO o.s.b.StartupInfoLogger [main] Starting IreReduxApplication using Java 20 with PID 15005 (/Users/rxs182/ire-redux/target/classes started by rxs182 in /Users/rxs182/ire-redux)
+2023-05-16 20:02:55,565 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.0.6, Spring v6.0.8
+2023-05-16 20:02:55,566 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-05-16 20:02:55,872 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-05-16 20:02:55,876 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-16 20:02:55,877 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2023-05-16 20:02:55,877 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-16 20:02:55,908 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-05-16 20:02:55,908 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 329 ms
+2023-05-16 20:02:56,057 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-16 20:02:56,064 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2023-05-16 20:02:56,068 INFO o.s.b.StartupInfoLogger [main] Started IreReduxApplication in 0.672 seconds (process running for 1.054)
